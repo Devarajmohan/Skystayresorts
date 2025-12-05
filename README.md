@@ -32,15 +32,16 @@ direction of the new website.
 
 **Tech Stack:** 
 
-● WordPress – Selected for scalability, faster development, and easy post-launch content 
-updates by the client. 
-● Elementor Page Builder – Used for flexible layout control and faster UI design iteration. 
-● Custom CSS – For precise responsive breakpoints, refinement of layout behavior, and 
-visual polishing. 
-● Lazy Loading Plugins (e.g., a3 Lazy Load) – To improve loading speed and reduce 
-initial render time. 
-● Image Optimization Tools – Used to compress large media files and enhance page 
-performance. 
+- **WordPress** – Selected for scalability, faster development, and easy post-launch content updates for the client.
+
+- **Elementor Page Builder** – Used for flexible layout control and faster UI/UX design iteration.
+
+- **Custom CSS** – Applied for precise responsive breakpoints, refined layout behavior, and final visual polishing.
+
+- **Lazy Loading Plugins** (e.g., *a3 Lazy Load*) – Implemented to improve loading speed and reduce initial render time.
+
+- **Image Optimization Tools** – Used to compress large media files and enhance overall page performance.
+
 
 **Core Features:** 
 The finished product included several major improvements: 
