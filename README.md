@@ -16,6 +16,8 @@ form the majority of travel-related traffic. As a result, the site had a high bo
 engagement, and fewer booking inquiries. The business needed a fresh, modern, 
 performance-focused website that could support better user experience and conversion rates. 
 
+<img width="1920" height="7234" alt="s1 (1)" src="https://github.com/user-attachments/assets/8d9801cd-e0b7-473e-ab66-5e2abdd50db5" />
+
 **Target Users:** 
 The primary audience for this website consisted of travelers researching resort stays online, 
 especially mobile and tablet users who often make booking decisions on-the-go. The site 
