@@ -31,6 +31,7 @@ included multiple rounds of feedback and revisions to align both the aesthetic a
 direction of the new website. 
 
 **Tech Stack:** 
+
 ● WordPress – Selected for scalability, faster development, and easy post-launch content 
 updates by the client. 
 ● Elementor Page Builder – Used for flexible layout control and faster UI design iteration. 
